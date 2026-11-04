@@ -1,6 +1,3 @@
 torch
 numpy
 matplotlib
-notebook
-jupyterlab
-ipykernel
